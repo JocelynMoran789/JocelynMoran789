@@ -1,4 +1,4 @@
-Claro. Quité **Arduino, Electricidad Residencial y Prompt Engineering**, eliminé completamente la sección **“Tecnologías y conocimientos”** y convertí **Formación complementaria** en cuadros de colores, siguiendo el estilo de las imágenes de referencia.
+
 
 # 👩‍💻 Sobre mí
 
