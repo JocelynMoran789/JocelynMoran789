@@ -1,186 +1,161 @@
-
-<div align="center">
-
-# 👩🏻‍💻 JOCELYN DANIELA
+# 💻 ✦ JOCELYN DANIELA
 
 ## MORÁN PACHECO
 
-### `Bachiller Técnico Vocacional en Desarrollo de Software`
+> **Bachiller Técnico Vocacional en Desarrollo de Software**
+> 📍 Instituto Nacional de Apopa
 
-📍 **Instituto Nacional de Apopa**
-
-<br>
-
-`💻 DESARROLLO`   `🤖 TECNOLOGÍA`   `📊 DATOS`   `🚀 INNOVACIÓN`
-
-</div>
+`💻 DESARROLLO`  `🤖 TECNOLOGÍA`  `📊 DATOS`  `🚀 INNOVACIÓN`
 
 ---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## ◈ SOBRE MÍ
 
-## 🧠 PERFIL
+### 🧠 PERFIL
 
-Soy una persona **responsable, comprometida y perseverante**, apasionada por seguir aprendiendo y desarrollar nuevas habilidades.
+Soy una persona **responsable, comprometida y perseverante**, con entusiasmo por aprender, desarrollar nuevas habilidades y crecer constantemente.
 
-Me caracterizo por ser **organizada, dedicada, honesta y confiable**, manteniendo siempre una actitud positiva frente a los retos.
+Me caracterizo por ser **organizada, dedicada, honesta y confiable**, manteniendo una actitud positiva ante los retos y buscando siempre nuevas formas de mejorar.
 
-Me gusta descubrir nuevas herramientas, enfrentar desafíos y convertir los problemas en oportunidades para **aprender, crear y mejorar**.
+Me interesa descubrir herramientas tecnológicas, enfrentar desafíos y transformar los problemas en oportunidades para **aprender, crear y encontrar soluciones**.
 
-</td>
+### ✦ MI ENFOQUE
 
-<td width="40%" valign="top">
+| 🎯 | ENFOQUE                |
+| -- | ---------------------- |
+| 📚 | Aprendizaje continuo   |
+| 💻 | Desarrollo tecnológico |
+| 🧩 | Solución de problemas  |
+| 🎨 | Creatividad            |
+| 🚀 | Superación personal    |
 
-### ✨ ENFOQUE
+### ⚡ MI FILOSOFÍA
 
-```text
-▸ Aprendizaje continuo
-▸ Desarrollo tecnológico
-▸ Solución de problemas
-▸ Creatividad
-▸ Superación personal
-```
-
-### 🎯 ACTITUD
-
-**Aprender → Practicar → Mejorar → Crecer**
-
-</td>
-</tr>
-</table>
+**APRENDER** → **PRACTICAR** → **MEJORAR** → **CRECER**
 
 ---
 
-# 🎓 FORMACIÓN
+# 🎓 FORMACIÓN ACADÉMICA
 
 ### 💻 Bachiller Técnico Vocacional en Desarrollo de Software
 
 **Instituto Nacional de Apopa**
 
-Mi formación académica me permitió adquirir conocimientos relacionados con la **programación, tecnología y desarrollo de soluciones digitales**.
+Mi formación académica me permitió desarrollar conocimientos relacionados con la **programación, tecnología y creación de soluciones digitales**.
 
-También fortalecí mi capacidad para **analizar problemas, desarrollar soluciones y trabajar en proyectos tecnológicos**.
+Durante este proceso fortalecí mi capacidad para **analizar problemas, desarrollar soluciones, trabajar en proyectos tecnológicos y adquirir nuevos conocimientos**.
 
-> 💡 *La formación no termina al obtener un título; cada nuevo proyecto es una oportunidad para seguir aprendiendo.*
+> 💡 **“La formación no termina al obtener un título; cada proyecto representa una nueva oportunidad para aprender.”**
 
 ---
 
 # 📚 CONOCIMIENTOS ADICIONALES
 
-<table>
-<tr>
-<td align="center" width="25%">
+### 🖨️ IMPRESIÓN 3D
 
-### 🖨️
+**Operador de Impresoras 3D**
 
-**IMPRESIÓN 3D**
+Conocimientos relacionados con el uso y operación de tecnologías de impresión tridimensional.
 
-Operador de
-Impresoras 3D
+### 📊 MICROSOFT EXCEL
 
-</td>
+**Nivel Básico**
 
-<td align="center" width="25%">
+Herramientas fundamentales para la organización, manejo y análisis de información.
 
-### 📊
+### 📈 POWER BI
 
-**EXCEL**
+**Análisis y Visualización**
 
-Microsoft
-Excel Básico
+Conocimientos orientados a la representación y análisis visual de datos.
 
-</td>
+### 🤖 INTELIGENCIA ARTIFICIAL
 
-<td align="center" width="25%">
+**Gemini**
 
-### 📈
-
-**POWER BI**
-
-Análisis y
-visualización
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**IA**
-
-Inteligencia
-Artificial Gemini
-
-</td>
-</tr>
-</table>
+Exploración de herramientas de inteligencia artificial aplicadas al aprendizaje y desarrollo tecnológico.
 
 ---
 
 # ⚡ HABILIDADES
 
-<div align="center">
+### 🧩 PERSONALES
 
-|        🧩 PERSONAL       |       🚀 PROFESIONAL       |
-| :----------------------: | :------------------------: |
-|       🤝 Compromiso      | 💻 Aprendizaje tecnológico |
-| 🧠 Pensamiento analítico |   📚 Aprendizaje continuo  |
-|     🎯 Perseverancia     |  🔎 Búsqueda de soluciones |
-|      📋 Organización     |       💡 Creatividad       |
-|       ❤️ Honestidad      |        📈 Superación       |
+`🤝 COMPROMISO`
+`🎯 PERSEVERANCIA`
+`📋 ORGANIZACIÓN`
+`❤️ HONESTIDAD`
+`🧠 PENSAMIENTO ANALÍTICO`
 
-</div>
+### 💻 PROFESIONALES
+
+`💡 CREATIVIDAD`
+`📚 APRENDIZAJE CONTINUO`
+`🔎 SOLUCIÓN DE PROBLEMAS`
+`💻 APRENDIZAJE TECNOLÓGICO`
+`📈 SUPERACIÓN`
 
 ---
 
 # 🌱 LO QUE ME DEFINE
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   ✦ Responsable       ✦ Comprometida                 │
-│   ✦ Perseverante      ✦ Organizada                   │
-│   ✦ Honesta           ✦ Confiable                    │
-│   ✦ Adaptable         ✦ En constante aprendizaje    │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+╭──────────────────────────────────────────────╮
+│                                              │
+│   ✦ RESPONSABLE        ✦ COMPROMETIDA       │
+│                                              │
+│   ✦ PERSEVERANTE       ✦ ORGANIZADA         │
+│                                              │
+│   ✦ HONESTA            ✦ CONFIABLE          │
+│                                              │
+│   ✦ ADAPTABLE          ✦ CURIOSA            │
+│                                              │
+│   ✦ EN CONSTANTE APRENDIZAJE                │
+│                                              │
+╰──────────────────────────────────────────────╯
 
 ---
 
-# 🚀 OBJETIVO
+# 🚀 MI OBJETIVO
 
-Mi objetivo es **continuar desarrollándome en el área tecnológica**, adquirir experiencia y convertir los conocimientos que he aprendido en soluciones útiles y creativas.
+Mi objetivo es **continuar desarrollándome en el área tecnológica**, adquirir experiencia y transformar los conocimientos adquiridos en **soluciones útiles, creativas e innovadoras**.
 
-Busco aprovechar cada oportunidad para:
+Quiero aprovechar cada oportunidad para seguir creciendo tanto personal como profesionalmente.
 
-**📚 Aprender nuevos conocimientos**
-**💻 Desarrollar nuevas habilidades**
-**🧩 Resolver problemas**
-**🚀 Participar en nuevos proyectos**
-**🌟 Crecer personal y profesionalmente**
+### ✦ QUIERO...
+
+**📚 APRENDER**
+Nuevos conocimientos y tecnologías.
+
+**💻 DESARROLLAR**
+Nuevas habilidades y capacidades.
+
+**🧩 RESOLVER**
+Problemas mediante soluciones creativas.
+
+**🚀 PARTICIPAR**
+En nuevos proyectos y experiencias.
+
+**🌟 CRECER**
+Personal y profesionalmente.
 
 ---
 
-<div align="center">
+# ╭─ MI CAMINO ─╮
 
-### `01` APRENDER
+### `01`  📚 APRENDER
 
-### `02` CREAR
+### `02`  💡 CREAR
 
-### `03` MEJORAR
+### `03`  ⚡ MEJORAR
 
-### `04` CRECER
+### `04`  🚀 CRECER
 
-<br>
+# ✨ MI VISIÓN
 
-## 💙 *"Cada reto es una nueva oportunidad para demostrar lo que puedo lograr."*
+> **“Cada reto es una nueva oportunidad para demostrar lo que puedo lograr.”**
 
-<br>
+### 💙 Construyendo mi camino en el mundo de la tecnología.
 
-**🚀 Construyendo mi camino en el mundo de la tecnología.**
-
-</div>
+`JOCELYN DANIELA MORÁN PACHECO`
+**Desarrollo de Software • Tecnología • Innovación • Aprendizaje**
 
