@@ -1,28 +1,72 @@
-# Descripción personal
+# 👩‍💻 Sobre mí
 
-## Sobre mí
+<div align="center">
 
-Mi nombre es **Jocelyn Daniela Morán Pacheco**. Soy una persona **responsable, comprometida, perseverante y con deseos de superación**. Me caracterizo por ser dedicada, organizada y mantener una actitud positiva ante los diferentes retos.
+## ✨ ¡Hola! Soy Jocelyn Daniela Morán Pacheco
 
-## Formación académica
+**Bachiller Técnico Vocacional en Desarrollo de Software**
+📍 Instituto Nacional de Apopa
 
-Soy **Bachiller Técnico Vocacional en Desarrollo de Software del Instituto Nacional de Apopa**, formación que fortaleció mi interés por la tecnología, así como mi capacidad para analizar problemas y buscar soluciones de manera eficiente.
+💻 **Tecnología | Desarrollo de Software | Innovación | Aprendizaje**
 
-## Cursos y conocimientos
+</div>
 
-He complementado mi formación mediante cursos de:
+---
 
-- **Operador de Impresoras 3D**
-- **Microsoft Excel Básico**
-- **Power BI**
-- **Inteligencia Artificial Gemini**
+## 🌟 ¿Quién soy?
 
-Estos conocimientos reflejan mi interés por continuar aprendiendo y desarrollándome en diferentes áreas relacionadas con la tecnología.
+Soy una persona **responsable, comprometida y perseverante**, con una actitud positiva y muchas ganas de seguir creciendo. Me caracterizo por ser **dedicada, organizada, confiable y constante** en todo lo que realizo.
 
-## Habilidades y cualidades
+Me gusta enfrentar nuevos retos, aprender cosas diferentes y buscar soluciones de manera creativa y eficiente. Para mí, cada experiencia representa una oportunidad para **aprender, mejorar y adquirir nuevos conocimientos**.
 
-Me considero una persona **honesta, confiable, dedicada y con buena actitud**. Tengo facilidad para adaptarme a nuevos retos, asumir responsabilidades y trabajar constantemente en el desarrollo de mis habilidades.
+---
 
-## Objetivo personal
+## 🎓 Formación académica
 
-Mi principal motivación es **continuar aprendiendo, adquirir experiencia y crecer tanto personal como profesionalmente**, aprovechando cada oportunidad para mejorar mis conocimientos y alcanzar nuevas metas.
+🎓 **Bachiller Técnico Vocacional en Desarrollo de Software**
+🏫 **Instituto Nacional de Apopa**
+
+Mi formación académica me permitió desarrollar conocimientos relacionados con la **tecnología, programación y desarrollo de soluciones digitales**, fortaleciendo también mi capacidad para analizar problemas y trabajar en proyectos.
+
+---
+
+## 📚 Cursos y conocimientos
+
+He complementado mi formación con diferentes cursos que me han permitido ampliar mis conocimientos:
+
+| 📌 Curso                              | 💡 Área                           |
+| ------------------------------------- | --------------------------------- |
+| 🖨️ **Operador de Impresoras 3D**     | Tecnología e impresión 3D         |
+| 📊 **Microsoft Excel Básico**         | Ofimática y manejo de datos       |
+| 📈 **Power BI**                       | Análisis y visualización de datos |
+| 🤖 **Inteligencia Artificial Gemini** | Inteligencia artificial           |
+
+---
+
+## 💪 Mis fortalezas
+
+* 🔹 Responsabilidad
+* 🔹 Compromiso
+* 🔹 Perseverancia
+* 🔹 Organización
+* 🔹 Honestidad
+* 🔹 Adaptabilidad
+* 🔹 Trabajo constante
+* 🔹 Deseos de superación
+* 🔹 Facilidad para aprender
+
+---
+
+## 🚀 Mi objetivo
+
+Mi objetivo es **seguir aprendiendo, adquirir experiencia y crecer tanto personal como profesionalmente**.
+
+Quiero aprovechar cada oportunidad para desarrollar nuevas habilidades, ampliar mis conocimientos tecnológicos y participar en proyectos que me permitan demostrar todo lo que puedo lograr.
+
+<div align="center">
+
+### 💙 Aprender • Crear • Mejorar • Crecer
+
+**Siempre buscando nuevos retos y oportunidades para seguir avanzando. 🚀**
+
+</div>
