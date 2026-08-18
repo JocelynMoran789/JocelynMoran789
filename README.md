@@ -1,7 +1,5 @@
 
 
-# 👩‍💻 Sobre mí
-
 <div align="center">
 
 # ✨ ¡Hola! Soy **Jocelyn Daniela Morán Pacheco**
