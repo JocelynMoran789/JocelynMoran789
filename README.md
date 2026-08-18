@@ -1,214 +1,147 @@
-# ✦ 💻 JOCELYN DANIELA ✦
+# 👩‍💻 Sobre mí
 
-## MORÁN PACHECO
+<div align="center">
 
-### `BACHILLER TÉCNICO VOCACIONAL EN DESARROLLO DE SOFTWARE`
+# ✨ ¡Hola! Soy **Jocelyn Daniela Morán Pacheco**
 
-📍 **Instituto Nacional de Apopa**
+### 💻 Bachiller Técnico Vocacional en Desarrollo de Software
 
-`💻 DESARROLLO` · `🤖 TECNOLOGÍA` · `📊 DATOS` · `🚀 INNOVACIÓN`
+📍 **Instituto Nacional de Apopa · El Salvador**
 
----
+<br>
 
-# ✦ SOBRE MÍ ✦
+`💻 Desarrollo de Software` · `🚀 Tecnología` · `🤖 Inteligencia Artificial` · `📊 Datos` · `🔧 Hardware`
 
-## 🧠 PERFIL
-
-**Soy una persona responsable, comprometida y perseverante**,
-con entusiasmo por aprender, desarrollar nuevas habilidades
-y crecer constantemente.
-
-Me caracterizo por ser **organizada, dedicada, honesta y confiable**,
-manteniendo una actitud positiva ante los retos y buscando siempre
-nuevas oportunidades para mejorar.
-
-Me gusta descubrir herramientas tecnológicas, enfrentar desafíos
-y convertir los problemas en oportunidades para:
-
-### 💡 APRENDER · CREAR · MEJORAR
+</div>
 
 ---
 
-## ✦ MI ENFOQUE ✦
+## 🌟 ¿Quién soy?
 
-`📚 APRENDIZAJE CONTINUO`
+Soy una persona **responsable, comprometida y perseverante**, apasionada por aprender y descubrir nuevas formas de utilizar la tecnología para crear soluciones.
 
-`💻 DESARROLLO TECNOLÓGICO`
+Me caracterizo por ser **dedicada, organizada, confiable y constante**. Disfruto enfrentar nuevos retos, resolver problemas y adquirir conocimientos que me permitan seguir creciendo.
 
-`🧩 SOLUCIÓN DE PROBLEMAS`
-
-`🎨 CREATIVIDAD`
-
-`🚀 SUPERACIÓN PERSONAL`
-
-### ⚡
-
-**APRENDER**
-↓
-**PRACTICAR**
-↓
-**MEJORAR**
-↓
-**CRECER**
+Para mí, cada proyecto representa una nueva oportunidad para **aprender, experimentar, mejorar y demostrar mis capacidades**.
 
 ---
 
-# ✦ 🎓 FORMACIÓN ✦
+## 🧠 Lo que me caracteriza
 
-### 💻 BACHILLER TÉCNICO VOCACIONAL
+<div align="center">
 
-### EN DESARROLLO DE SOFTWARE
+|  💡 | Habilidad               |  💡 | Habilidad               |
+| :-: | :---------------------- | :-: | :---------------------- |
+|  🎯 | Responsabilidad         |  🚀 | Perseverancia           |
+|  🤝 | Compromiso              |  📚 | Facilidad para aprender |
+|  🧩 | Resolución de problemas |  🔄 | Adaptabilidad           |
+|  📋 | Organización            |  💪 | Constancia              |
+|  ✨  | Creatividad             |  🌱 | Deseos de superación    |
 
-**Instituto Nacional de Apopa**
-
-Mi formación académica me permitió adquirir conocimientos
-relacionados con la **programación, tecnología y desarrollo
-de soluciones digitales**.
-
-También fortalecí mi capacidad para **analizar problemas,
-desarrollar soluciones y participar en proyectos tecnológicos**.
-
-> 💡 *“La formación no termina al obtener un título;
-> cada proyecto es una nueva oportunidad para aprender.”*
+</div>
 
 ---
 
-# ✦ 📚 CONOCIMIENTOS ADICIONALES ✦
+## 🎓 Formación
 
-### 🖨️
+### 🏫 Bachillerato Técnico Vocacional
 
-## IMPRESIÓN 3D
+**Instituto Nacional de Apopa — INA**
 
-**Operador de Impresoras 3D**
+`2024 — 2026`
 
----
+**💻 Técnico en Desarrollo de Software**
 
-### 📊
-
-## MICROSOFT EXCEL
-
-**Nivel Básico**
+Formación orientada al desarrollo de soluciones tecnológicas, programación, análisis de problemas y creación de proyectos de software.
 
 ---
 
-### 📈
+## 📚 Formación complementaria
 
-## POWER BI
+<div align="center">
 
-**Análisis y Visualización**
+`C` `C++` `Arduino` `Excel` `Power BI` `Gemini AI`
 
----
+`Prompt Engineering` `Bases de Datos` `Impresión 3D` `Electricidad Residencial`
 
-### 🤖
-
-## INTELIGENCIA ARTIFICIAL
-
-**Gemini**
+</div>
 
 ---
 
-# ✦ ⚡ HABILIDADES ✦
+## 🛠️ Tecnologías y conocimientos
 
-### 🧩 PERSONALES
+### 💻 Desarrollo
 
-`🤝 COMPROMISO`
+<div align="center">
 
-`🎯 PERSEVERANCIA`
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-`📋 ORGANIZACIÓN`
+</div>
 
-`❤️ HONESTIDAD`
+### 🔧 Hardware y electrónica
 
-`🧠 PENSAMIENTO ANALÍTICO`
+<div align="center">
 
-### 💻 PROFESIONALES
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![3D Printing](https://img.shields.io/badge/Impresión%203D-FF6F00?style=for-the-badge\&logo=3d\&logoColor=white)
 
-`💡 CREATIVIDAD`
+</div>
 
-`📚 APRENDIZAJE CONTINUO`
+### ⚙️ Herramientas
 
-`🔎 SOLUCIÓN DE PROBLEMAS`
+<div align="center">
 
-`💻 APRENDIZAJE TECNOLÓGICO`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 
-`📈 SUPERACIÓN`
-
----
-
-# ✦ 🌱 LO QUE ME DEFINE ✦
-
-╭──────────────────────────────────────╮
-│                                      │
-│       ✦ RESPONSABLE                  │
-│       ✦ COMPROMETIDA                │
-│       ✦ PERSEVERANTE                │
-│       ✦ ORGANIZADA                  │
-│       ✦ HONESTA                     │
-│       ✦ CONFIABLE                   │
-│       ✦ ADAPTABLE                   │
-│       ✦ CURIOSA                     │
-│                                      │
-│    ✨ EN CONSTANTE APRENDIZAJE ✨    │
-│                                      │
-╰──────────────────────────────────────╯
+</div>
 
 ---
 
-# ✦ 🚀 OBJETIVO ✦
+## 🚀 Mi objetivo
 
-Mi objetivo es **continuar desarrollándome en el área tecnológica**,
-adquirir experiencia y transformar mis conocimientos en
-**soluciones útiles, creativas e innovadoras**.
+Mi objetivo es **seguir creciendo en el área tecnológica**, adquirir experiencia y continuar desarrollando nuevas habilidades.
 
-### ✦ QUIERO...
+Quiero participar en proyectos que me permitan poner en práctica mis conocimientos, aprender de nuevos desafíos y desarrollar soluciones que combinen **creatividad, tecnología e innovación**.
 
-📚 **APRENDER**
-Nuevos conocimientos y tecnologías.
+<div align="center">
 
-💻 **DESARROLLAR**
-Nuevas habilidades y capacidades.
+### 💙 APRENDER · CREAR · MEJORAR · CRECER
 
-🧩 **RESOLVER**
-Problemas mediante soluciones creativas.
+**🚀 Siempre buscando nuevos retos y oportunidades para seguir avanzando.**
 
-🚀 **PARTICIPAR**
-En nuevos proyectos y experiencias.
-
-🌟 **CRECER**
-Personal y profesionalmente.
+</div>
 
 ---
 
-# ✦ MI CAMINO ✦
+## 🌐 Un poco más sobre mí
 
-### 01 · 📚 APRENDER
+<div align="center">
 
-### ↓
+```text
+💻 Desarrollo de Software
+      ↓
+🧠 Aprendizaje constante
+      ↓
+🧩 Resolución de problemas
+      ↓
+🚀 Nuevos proyectos
+      ↓
+✨ Crecimiento profesional
+```
 
-### 02 · 💡 CREAR
+### ⭐ Gracias por visitar mi perfil
 
-### ↓
+**¡Bienvenido/a a mi espacio en GitHub! 👩‍💻💙**
 
-### 03 · ⚡ MEJORAR
+</div>
 
-### ↓
-
-### 04 · 🚀 CRECER
-
----
-
-# ✨ MI VISIÓN ✨
-
-> **“Cada reto es una nueva oportunidad
-> para demostrar lo que puedo lograr.”**
-
-## 💙 CONSTRUYENDO MI CAMINO
-
-## EN EL MUNDO DE LA TECNOLOGÍA
-
----
-
-### `JOCELYN DANIELA MORÁN PACHECO`
-
-**DESARROLLO DE SOFTWARE · TECNOLOGÍA · INNOVACIÓN · APRENDIZAJE**
 
