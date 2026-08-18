@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # ✨ ¡Hola! Soy **Jocelyn Daniela Morán Pacheco**
@@ -10,7 +8,11 @@
 
 <br>
 
-`💻 Desarrollo de Software` · `🚀 Tecnología` · `🤖 Inteligencia Artificial` · `📊 Datos` · `🔧 Hardware`
+![Desarrollo de Software](https://img.shields.io/badge/💻%20DESARROLLO%20DE%20SOFTWARE-6C63FF?style=for-the-badge)
+![Tecnología](https://img.shields.io/badge/🚀%20TECNOLOGÍA-00B4D8?style=for-the-badge)
+![Inteligencia Artificial](https://img.shields.io/badge/🤖%20INTELIGENCIA%20ARTIFICIAL-8E44AD?style=for-the-badge)
+![Datos](https://img.shields.io/badge/📊%20DATOS-2A9D8F?style=for-the-badge)
+![Hardware](https://img.shields.io/badge/🔧%20HARDWARE-F4A261?style=for-the-badge)
 
 </div>
 
@@ -20,23 +22,23 @@
 
 Soy una persona **responsable, comprometida y perseverante**, apasionada por aprender y descubrir nuevas formas de utilizar la tecnología para crear soluciones.
 
-Me caracterizo por ser **dedicada, organizada, confiable y constante**. Disfruto enfrentar nuevos retos, resolver problemas y adquirir conocimientos que me permitan seguir creciendo.
+Disfruto enfrentar nuevos retos, resolver problemas y adquirir conocimientos que me permitan seguir creciendo tanto personal como profesionalmente.
 
 Para mí, cada proyecto representa una nueva oportunidad para **aprender, experimentar, mejorar y demostrar mis capacidades**.
 
 ---
 
-## 🧠 Lo que me caracteriza
+## 💎 Mis virtudes
 
 <div align="center">
 
-|  💡 | Habilidad               |  💡 | Habilidad               |
-| :-: | :---------------------- | :-: | :---------------------- |
-|  🎯 | Responsabilidad         |  🚀 | Perseverancia           |
-|  🤝 | Compromiso              |  📚 | Facilidad para aprender |
-|  🧩 | Resolución de problemas |  🔄 | Adaptabilidad           |
-|  📋 | Organización            |  💪 | Constancia              |
-|  ✨  | Creatividad             |  🌱 | Deseos de superación    |
+|  💡 | Virtud                      |  💡 | Virtud                      |
+| :-: | :-------------------------- | :-: | :-------------------------- |
+|  🎯 | **Responsabilidad**         |  🚀 | **Perseverancia**           |
+|  🤝 | **Compromiso**              |  📚 | **Facilidad para aprender** |
+|  🧩 | **Resolución de problemas** |  🔄 | **Adaptabilidad**           |
+|  📋 | **Organización**            |  💪 | **Constancia**              |
+|  ✨  | **Creatividad**             |  🌱 | **Deseos de superación**    |
 
 </div>
 
@@ -91,3 +93,4 @@ Quiero participar en proyectos que me permitan poner en práctica mis conocimien
 **¡Bienvenido/a a mi espacio en GitHub! 👩‍💻💙**
 
 </div>
+
