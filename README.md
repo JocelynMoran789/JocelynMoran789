@@ -1,4 +1,6 @@
 
+<div align="center">
+
 # 👩🏻‍💻 JOCELYN DANIELA
 
 ## MORÁN PACHECO
@@ -7,10 +9,17 @@
 
 📍 **Instituto Nacional de Apopa**
 
-
+<br>
 
 `💻 DESARROLLO`   `🤖 TECNOLOGÍA`   `📊 DATOS`   `🚀 INNOVACIÓN`
 
+</div>
+
+---
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ## 🧠 PERFIL
 
@@ -20,6 +29,9 @@ Me caracterizo por ser **organizada, dedicada, honesta y confiable**, manteniend
 
 Me gusta descubrir nuevas herramientas, enfrentar desafíos y convertir los problemas en oportunidades para **aprender, crear y mejorar**.
 
+</td>
+
+<td width="40%" valign="top">
 
 ### ✨ ENFOQUE
 
@@ -34,6 +46,12 @@ Me gusta descubrir nuevas herramientas, enfrentar desafíos y convertir los prob
 ### 🎯 ACTITUD
 
 **Aprender → Practicar → Mejorar → Crecer**
+
+</td>
+</tr>
+</table>
+
+---
 
 # 🎓 FORMACIÓN
 
@@ -51,6 +69,9 @@ También fortalecí mi capacidad para **analizar problemas, desarrollar solucion
 
 # 📚 CONOCIMIENTOS ADICIONALES
 
+<table>
+<tr>
+<td align="center" width="25%">
 
 ### 🖨️
 
@@ -59,6 +80,9 @@ También fortalecí mi capacidad para **analizar problemas, desarrollar solucion
 Operador de
 Impresoras 3D
 
+</td>
+
+<td align="center" width="25%">
 
 ### 📊
 
@@ -67,6 +91,9 @@ Impresoras 3D
 Microsoft
 Excel Básico
 
+</td>
+
+<td align="center" width="25%">
 
 ### 📈
 
@@ -75,6 +102,9 @@ Excel Básico
 Análisis y
 visualización
 
+</td>
+
+<td align="center" width="25%">
 
 ### 🤖
 
@@ -83,6 +113,11 @@ visualización
 Inteligencia
 Artificial Gemini
 
+</td>
+</tr>
+</table>
+
+---
 
 # ⚡ HABILIDADES
 
@@ -96,11 +131,13 @@ Artificial Gemini
 |      📋 Organización     |       💡 Creatividad       |
 |       ❤️ Honestidad      |        📈 Superación       |
 
+</div>
 
+---
 
 # 🌱 LO QUE ME DEFINE
 
-
+```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
 │   ✦ Responsable       ✦ Comprometida                 │
@@ -109,7 +146,9 @@ Artificial Gemini
 │   ✦ Adaptable         ✦ En constante aprendizaje    │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
+```
 
+---
 
 # 🚀 OBJETIVO
 
@@ -123,6 +162,10 @@ Busco aprovechar cada oportunidad para:
 **🚀 Participar en nuevos proyectos**
 **🌟 Crecer personal y profesionalmente**
 
+---
+
+<div align="center">
+
 ### `01` APRENDER
 
 ### `02` CREAR
@@ -131,12 +174,13 @@ Busco aprovechar cada oportunidad para:
 
 ### `04` CRECER
 
-
+<br>
 
 ## 💙 *"Cada reto es una nueva oportunidad para demostrar lo que puedo lograr."*
 
+<br>
 
 **🚀 Construyendo mi camino en el mundo de la tecnología.**
 
-
+</div>
 
