@@ -1,41 +1,47 @@
-# 👩‍💻 Sobre mí
+Claro. Te lo puedo dejar con un estilo **más moderno, elegante y profesional**, ideal para subirlo a **GitHub como presentación personal**. También mejoré la estructura para que no parezca un documento común, sino un perfil tecnológico.
 
-<div align="center">
+# 👩‍💻 JOCELYN DANIELA MORÁN PACHECO
 
-## ✨ ¡Hola! Soy Jocelyn Daniela Morán Pacheco
+### 💻 Bachiller Técnico Vocacional en Desarrollo de Software
 
-**Bachiller Técnico Vocacional en Desarrollo de Software**
-📍 Instituto Nacional de Apopa
+📍 **Instituto Nacional de Apopa**
 
-💻 **Tecnología | Desarrollo de Software | Innovación | Aprendizaje**
-
-</div>
+> **Tecnología · Desarrollo de Software · Innovación · Aprendizaje**
 
 ---
 
-## 🌟 ¿Quién soy?
+## ✨ Sobre mí
 
-Soy una persona **responsable, comprometida y perseverante**, con una actitud positiva y muchas ganas de seguir creciendo. Me caracterizo por ser **dedicada, organizada, confiable y constante** en todo lo que realizo.
+Soy una persona **responsable, comprometida y perseverante**, con una actitud positiva y una gran disposición para seguir aprendiendo y superándome.
 
-Me gusta enfrentar nuevos retos, aprender cosas diferentes y buscar soluciones de manera creativa y eficiente. Para mí, cada experiencia representa una oportunidad para **aprender, mejorar y adquirir nuevos conocimientos**.
+Me caracterizo por ser **dedicada, organizada, confiable y constante** en cada actividad que realizo. Me gusta asumir nuevos retos, adquirir conocimientos y encontrar soluciones creativas y eficientes ante diferentes situaciones.
+
+Considero que cada experiencia es una oportunidad para **aprender, mejorar y crecer**, tanto a nivel personal como profesional.
 
 ---
 
 ## 🎓 Formación académica
 
-🎓 **Bachiller Técnico Vocacional en Desarrollo de Software**
+### Bachiller Técnico Vocacional en Desarrollo de Software
+
 🏫 **Instituto Nacional de Apopa**
 
-Mi formación académica me permitió desarrollar conocimientos relacionados con la **tecnología, programación y desarrollo de soluciones digitales**, fortaleciendo también mi capacidad para analizar problemas y trabajar en proyectos.
+Durante mi formación desarrollé conocimientos relacionados con:
+
+* 💻 Programación y desarrollo de software
+* 🧩 Resolución y análisis de problemas
+* 🌐 Tecnología y herramientas digitales
+* 🚀 Desarrollo de soluciones tecnológicas
+* 🤝 Trabajo en proyectos
+
+Esta preparación me permitió fortalecer mi capacidad de aprendizaje, creatividad y pensamiento lógico.
 
 ---
 
 ## 📚 Cursos y conocimientos
 
-He complementado mi formación con diferentes cursos que me han permitido ampliar mis conocimientos:
-
-| 📌 Curso                              | 💡 Área                           |
-| ------------------------------------- | --------------------------------- |
+| 🏆 Curso                              | 💡 Área                           |
+| :------------------------------------ | :-------------------------------- |
 | 🖨️ **Operador de Impresoras 3D**     | Tecnología e impresión 3D         |
 | 📊 **Microsoft Excel Básico**         | Ofimática y manejo de datos       |
 | 📈 **Power BI**                       | Análisis y visualización de datos |
@@ -45,28 +51,35 @@ He complementado mi formación con diferentes cursos que me han permitido amplia
 
 ## 💪 Mis fortalezas
 
-* 🔹 Responsabilidad
-* 🔹 Compromiso
-* 🔹 Perseverancia
-* 🔹 Organización
-* 🔹 Honestidad
-* 🔹 Adaptabilidad
-* 🔹 Trabajo constante
-* 🔹 Deseos de superación
-* 🔹 Facilidad para aprender
+```text
+✓ Responsabilidad
+✓ Compromiso
+✓ Perseverancia
+✓ Organización
+✓ Honestidad
+✓ Adaptabilidad
+✓ Constancia
+✓ Facilidad para aprender
+✓ Deseos de superación
+✓ Actitud positiva
+```
 
 ---
 
 ## 🚀 Mi objetivo
 
-Mi objetivo es **seguir aprendiendo, adquirir experiencia y crecer tanto personal como profesionalmente**.
+Mi objetivo es **continuar aprendiendo, adquirir experiencia y crecer constantemente tanto personal como profesionalmente**.
 
-Quiero aprovechar cada oportunidad para desarrollar nuevas habilidades, ampliar mis conocimientos tecnológicos y participar en proyectos que me permitan demostrar todo lo que puedo lograr.
+Busco aprovechar cada oportunidad para desarrollar nuevas habilidades, ampliar mis conocimientos tecnológicos y participar en proyectos que representen nuevos desafíos.
 
-<div align="center">
+Quiero seguir construyendo mi experiencia en el área tecnológica y demostrar, mediante mi trabajo y dedicación, todo lo que soy capaz de lograr.
 
-### 💙 Aprender • Crear • Mejorar • Crecer
+---
 
-**Siempre buscando nuevos retos y oportunidades para seguir avanzando. 🚀**
+## 🌱 Mi filosofía
 
-</div>
+> **“Cada nuevo reto es una oportunidad para aprender, mejorar y demostrar de qué soy capaz.”**
+
+### 💙 APRENDER · CREAR · MEJORAR · CRECER
+
+**Siempre preparada para nuevos retos, nuevos conocimientos y nuevas oportunidades. 🚀**
